@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zer0frank
-- 👀 I’m interested in Java programming, Arch Linux
-- 🌱 I’m currently learning netty
+- 👋 Hi, I’m frank fang
+- 👀 I’m interested in full stack development, fintech and data analysis
+- 🌱 I’m currently a MSc student @NTU Singapore
 - 📫 reach me via frankfang19952015@gmail.com
 
 <!---
